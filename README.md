@@ -6,7 +6,7 @@ A fully functioning web clone of Netflix built with React and Vite.
 
 - **Login and Signup:** User authentication and management using Firebase.
 - **Frontend:** Built using React for a smooth and dynamic user experience.
-- **Deployment:** The project is deployed and can be accessed at [Netflix-MERN](https://moviesbyshruti.netlify.app/).
+- **Deployment:** The project is deployed and can be accessed at https://moviesbyshruti.netlify.app/
 
 ## Getting Started
 
