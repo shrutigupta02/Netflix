@@ -1,4 +1,4 @@
-# Netflix-MERN
+# Netflix Clone
 
 A fully functioning web clone of Netflix built with React and Vite.
 
